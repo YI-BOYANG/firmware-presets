@@ -14,8 +14,6 @@
 
 #$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
 
-#$ DISCLAIMER: If you want to use the H band, delete the O band above and then copy the following command into the CLI.
-#$ vtxtable band 8 BAND_H   H CUSTOM  5653 5693 5733 5773 5813 5853 5893 5933
 
 
 

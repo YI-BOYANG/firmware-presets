@@ -149,8 +149,8 @@
       "clear",
       "defaults",
       "geprc",
+      "maten",
       "rad",
-      "rad maten",
       "reset",
       "vtx",
       "vtx table",
@@ -180,6 +180,75 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/GEPRC MATEN 1.2G 2W VTX-IRC-Tramp.txt",
+      "hash": "befd1f53e689da0e1ccad75c72cb94f552a5fce831dd86c310ac9cb72ac191c1",
+      "title": "GEPRC MATEN 1.2G 2W VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "geprc",
+        "rad",
+        "maten"
+      ],
+      "author": "Sartor",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/GEPRC MATEN 5.8G 2.5W VTX PRO-IRC-Tramp.txt",
+      "hash": "e3b8274d950d103ee2249c085e6a021d4ae07d60475a0561a52571c136618df0",
+      "title": "GEPRC MATEN 5.8G 2.5W VTX PRO Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "geprc",
+        "rad",
+        "maten"
+      ],
+      "author": "Sartor",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/GEPRC RAD MINI 5.8G 1W VTX.txt",
+      "hash": "5ca1a8b7dddcca2772fecaa622959f7db953aa517d5b362f605d5d2f04558e4b",
+      "title": "GEPRC RAD MINI 5.8G 1W VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "geprc",
+        "rad",
+        "maten"
+      ],
+      "author": "Sartor",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/GepRC_RAD_2W5.txt",
       "hash": "b1a6a50293fc783923d23ff80be2ae4b1b88c52a34e8a14daee1fbae343e944e",
       "title": "GEPRC RAD 5.8G 2.5W VTX Table",
@@ -197,28 +266,6 @@
         "vtxtable",
         "geprc",
         "rad"
-      ],
-      "author": "Sartor",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/MATEN 5.8G 2.5W VTX PRO-IRC-Tramp.txt",
-      "hash": "e73ff47cdd493aee9fc81d82e2e805695e13a5d41cb61edcda8de8a1774a46e8",
-      "title": "GEPRC MATEN 5.8G 2.5W VTX PRO Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "geprc",
-        "rad maten"
       ],
       "author": "Sartor",
       "priority": 1000000
