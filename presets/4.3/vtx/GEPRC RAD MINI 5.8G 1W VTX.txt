@@ -6,7 +6,7 @@
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS:  vtx, vtx table, vtxtable, geprc, rad, maten,
-#$ AUTHOR: Sartor
+#$ AUTHOR: YI-BOYANG
 #$ DESCRIPTION: VTX tables for GEPRC RAD MINI 5.8G 1W VTX. (IRC Tramp)
 #$ DESCRIPTION: Link to product manufacturer: https://geprc.com/product/geprc-rad-mini-5-8g-1w-vtx/
 #$ DISCLAIMER: All previous VTX Table settings will be reset.

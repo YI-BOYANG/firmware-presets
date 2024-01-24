@@ -6,7 +6,7 @@
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS:  vtx, vtx table, vtxtable, geprc, rad, maten,
-#$ AUTHOR: Sartor
+#$ AUTHOR: YI-BOYANG
 #$ DESCRIPTION: VTX tables for GEPRC MATEN 5.8G 2.5W VTX PRO. (IRC Tramp)
 #$ DESCRIPTION: Link to product manufacturer: https://geprc.com/product/geprc-maten-5-8g-2-5w-vtx-pro/
 #$ DISCLAIMER: All previous VTX Table settings will be reset.
