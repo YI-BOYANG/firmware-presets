@@ -143,7 +143,8 @@
     ],
     "author": [
       "Betaflight",
-      "Sartor"
+      "Sartor",
+      "YI-BOYANG"
     ],
     "keywords": [
       "clear",
@@ -181,7 +182,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/GEPRC MATEN 1.2G 2W VTX-IRC-Tramp.txt",
-      "hash": "befd1f53e689da0e1ccad75c72cb94f552a5fce831dd86c310ac9cb72ac191c1",
+      "hash": "008231f9ecfc83aa76a5bae47d506001c01e97389960d450fb1f862bd82124d8",
       "title": "GEPRC MATEN 1.2G 2W VTX Table",
       "firmware_version": [
         "4.2",
@@ -199,12 +200,12 @@
         "rad",
         "maten"
       ],
-      "author": "Sartor",
+      "author": "YI-BOYANG",
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/GEPRC MATEN 5.8G 2.5W VTX PRO-IRC-Tramp.txt",
-      "hash": "e3b8274d950d103ee2249c085e6a021d4ae07d60475a0561a52571c136618df0",
+      "hash": "3c30e3965454725c526330d8f2047ce415b4c3c7263e65f1a4c2d0f1fef86069",
       "title": "GEPRC MATEN 5.8G 2.5W VTX PRO Table",
       "firmware_version": [
         "4.2",
@@ -222,12 +223,12 @@
         "rad",
         "maten"
       ],
-      "author": "Sartor",
+      "author": "YI-BOYANG",
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/GEPRC RAD MINI 5.8G 1W VTX.txt",
-      "hash": "5ca1a8b7dddcca2772fecaa622959f7db953aa517d5b362f605d5d2f04558e4b",
+      "hash": "b06758359a501e382ee61a4e0612fe593d0fd3f96dbb606664a12285150d7595",
       "title": "GEPRC RAD MINI 5.8G 1W VTX Table",
       "firmware_version": [
         "4.2",
@@ -245,7 +246,7 @@
         "rad",
         "maten"
       ],
-      "author": "Sartor",
+      "author": "YI-BOYANG",
       "priority": 1000000
     },
     {
