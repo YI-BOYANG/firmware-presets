@@ -1,0 +1,27 @@
+#$ TITLE: GEPRC MATEN 1.2G 2W VTX Table
+#$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: VTX
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:  vtx, vtx table, vtxtable, geprc, rad, maten,
+#$ AUTHOR: Sartor
+#$ DESCRIPTION: VTX tables for MATEN 1.2G 2W VTX. (IRC Tramp)
+#$ DESCRIPTION: Link to product manufacturer: https://geprc.com/product/geprc-maten-1-2g-2w-vtx/
+#$ DISCLAIMER: All previous VTX Table settings will be reset.
+#$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
+
+#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
+
+vtxtable bands 1
+
+vtxtable channels 8
+
+vtxtable band 1 BAND_A   A CUSTOM  1080 1120 1160 1200 1240 1280 1320 1360
+
+vtxtable powerlevels 4
+vtxtable powervalues 25 400 800 2000
+vtxtable powerlabels 25 400 800 MAX
+
+save

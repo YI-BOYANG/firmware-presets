@@ -1,14 +1,14 @@
-#$ TITLE: GEPRC MATEN 5.8G 2.5W VTX PRO Table
+#$ TITLE: GEPRC RAD MINI 5.8G 1W VTX Table
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
-#$ KEYWORDS:  vtx, vtx table, vtxtable, geprc, rad maten,
+#$ KEYWORDS:  vtx, vtx table, vtxtable, geprc, rad, maten,
 #$ AUTHOR: Sartor
-#$ DESCRIPTION: VTX tables for GEPRC MATEN 5.8G 2.5W VTX PRO. (IRC Tramp)
-#$ DESCRIPTION: Link to product manufacturer: https://geprc.com/product/geprc-rad-vtx-5-8g-2-5w/
+#$ DESCRIPTION: VTX tables for GEPRC RAD MINI 5.8G 1W VTX. (IRC Tramp)
+#$ DESCRIPTION: Link to product manufacturer: https://geprc.com/product/geprc-rad-mini-5-8g-1w-vtx/
 #$ DISCLAIMER: All previous VTX Table settings will be reset.
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
 
@@ -25,8 +25,8 @@ vtxtable band 4 FATSHARK_F F CUSTOM  5740 5760 5780 5800 5820 5840 5860 5880
 vtxtable band 5 RACEBAND_R R CUSTOM  5658 5695 5732 5769 5806 5843 5880 5917
 vtxtable band 6 LOWRACE L CUSTOM 5362 5399 5436 5473 5510 5547 5584 5621
 
-vtxtable powerlevels 5
-vtxtable powervalues 25 200 600 1600 2500 
-vtxtable powerlabels 25 200 600 1W6 MAX
+vtxtable powerlevels 4
+vtxtable powervalues 25 200 500 1000 
+vtxtable powerlabels 25 200 500 MAX
 
 save
